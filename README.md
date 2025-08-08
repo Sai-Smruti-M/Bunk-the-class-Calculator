@@ -24,4 +24,3 @@ You can access the Attendance Calculator [here](https://sai-smruti-m.github.io/B
 
 If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
 
-Thank you for using the Bunk The Class!
