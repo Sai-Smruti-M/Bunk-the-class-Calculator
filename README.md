@@ -18,7 +18,7 @@ Bunk The Class is a simple web application that helps you determine how many lec
 
 ## Try It Out
 
-You can access the Attendance Calculator [here]((https://sai-smruti-m.github.io/Bunk-the-class-Calculator/)).
+You can access the Attendance Calculator [here](https://sai-smruti-m.github.io/Bunk-the-class-Calculator/).
 
 ## Feedback and Issues
 
